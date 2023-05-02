@@ -1,1 +1,1 @@
-# simple-python-blackjack that i made for an bootcamp
+# python blackjack game that i made for an bootcamp

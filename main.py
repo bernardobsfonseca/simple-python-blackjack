@@ -14,7 +14,7 @@ def drawn_one(deck):
     draw = cards[randint(0, 12)]
 
     if draw == 11:
-        if sum(deck) > 10:
+        if calculate_sum(deck) > 10:
             draw = 1
 
     deck.append(draw)
